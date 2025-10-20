@@ -76,7 +76,11 @@ font-size: larger;
 
 }
 
-.imge-bg {}
+.imge-bg {
+    background-image:image('C:\Users\Youcode\Desktop\Mise\image\imageee.png');
+    
+
+}
 
 .imge1 {
     display: flex;
@@ -97,11 +101,14 @@ font-size: larger;
 }
 
 .about-me {
-    padding: 10px;
+    padding: 5px;
+
 }
 
 .about-me h2 {
     font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
 }
 
 .about-me p {
